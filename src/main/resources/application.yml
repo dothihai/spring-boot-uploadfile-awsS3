@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: AKIAJEZRE2NZQ22O3FDA
+  secretKey: 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
+  bucketName: group19bucket
